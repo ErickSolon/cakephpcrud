@@ -28,7 +28,7 @@ class InfosSeed extends AbstractSeed
             ],
             [
                 'telefone' => '1184736251',
-                'email' => 'email@fodase.com',
+                'email' => 'email@freesorriso.com',
                 'pessoasid' => 2
             ],
         ];
